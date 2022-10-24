@@ -1,0 +1,53 @@
+[33mcommit 3e4465492e55592986c476cca0bf29a5c0e4162b[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Wasim Ansari <oasimansari0786@gmail.com>
+Date:   Mon Oct 24 13:56:25 2022 +0545
+
+    adding website link
+
+[33mcommit d0a21a77ae3303a63df6beb6ad832944b42e04ef[m
+Author: Wasim Ansari <oasimansari0786@gmail.com>
+Date:   Mon Oct 24 13:35:50 2022 +0545
+
+    clean up
+
+[33mcommit 72bbc131176e411e738807c787c5bba76e4742c4[m
+Author: Wasim Ansari <oasimansari0786@gmail.com>
+Date:   Mon Oct 24 12:31:33 2022 +0545
+
+    better way to delete the file
+
+[33mcommit d4d50f3c5564f1e561adc0c3cdcb86e1715faa66[m
+Author: Wasim Ansari <oasimansari0786@gmail.com>
+Date:   Mon Oct 24 12:25:13 2022 +0545
+
+    learn to delete files
+
+[33mcommit cbdb1be2f057133a053be69e8765062f2faad1d5[m
+Author: Wasim Ansari <oasimansari0786@gmail.com>
+Date:   Mon Oct 24 11:45:19 2022 +0545
+
+    learn about stagging diff
+
+[33mcommit f16d7e91ffbd2d01ca606d83500d17cfb9498899[m
+Author: Wasim Ansari <oasimansari0786@gmail.com>
+Date:   Mon Oct 24 10:37:38 2022 +0545
+
+    learn about diff
+
+[33mcommit 9b7d0aaa7ed529e1c5399b907a687c6ecf954284[m
+Author: Wasim Ansari <oasimansari0786@gmail.com>
+Date:   Mon Oct 24 10:21:33 2022 +0545
+
+    third file added
+
+[33mcommit c0d7f11f57e3853ce60f5fdf9677a1983cd0c33d[m
+Author: Wasim Ansari <oasimansari0786@gmail.com>
+Date:   Mon Oct 24 10:17:39 2022 +0545
+
+    second file added
+
+[33mcommit 018742df4c5ec6913cd1b0f4ac6d31c016c6f905[m
+Author: Wasim Ansari <oasimansari0786@gmail.com>
+Date:   Sun Oct 23 11:41:12 2022 +0545
+
+    initial commit
