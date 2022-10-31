@@ -7,3 +7,5 @@ added chart function in our branch.
 
 
 added a code for doing logout.
+
+link for google sign off 
